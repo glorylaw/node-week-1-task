@@ -6,7 +6,7 @@ html {
   box-sizing: border-box;
 }
 .container-fluid{
-  background:linear-gradient(rgba(0,0, 0, 0.6), rgba(0, 0, 0, 0.5)), url('/darth-vader-1549906397.jpeg') ;
+  background:linear-gradient(rgba(0,0, 0, 0.6), rgba(0, 0, 0, 0.5)), url('/images/darth-vader-1549906397.jpeg') ;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

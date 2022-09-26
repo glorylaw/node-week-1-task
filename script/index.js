@@ -19,7 +19,7 @@ function main() {
             let htmlSegment = `
             <div class="col-md-4 col-lg-3 position-relative m-4">
             <div class="card" style="max-width: 18rem; height: 10rem;">
-            <img src="/card-image.webp" class="img-rounded image-shadow position-absolute shadow" alt="star-wars" style="bottom: 2rem; right: -4rem; width: 5rem;"/>
+            <img src="/images/card-image.webp" class="img-rounded image-shadow position-absolute shadow" alt="star-wars" style="bottom: 2rem; right: -4rem; width: 5rem;"/>
             <div class="card-body">
               <h5 class="card-title fs-6">CHARACTER</h5>
               <details>
