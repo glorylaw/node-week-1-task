@@ -26,6 +26,7 @@ function main() {
               <summary>
                 <small class="card-text text-muted d-block">Name: ${element.name}</small>
               </summary>
+              <small class="card-text text-muted d-block">Name: ${element.name}</small>g
                 <small class="card-text text-muted d-block">Gender: ${element.gender}</small>
                 <small class="card-text text-muted d-block">Height: ${element.height}</small>
               </details>
