@@ -5,3 +5,17 @@ html {
   padding: 0;
   box-sizing: border-box;
 }
+.container-fluid{
+  background:linear-gradient(rgba(0,0, 0, 0.6), rgba(0, 0, 0, 0.5)), url('/darth-vader-1549906397.jpeg') ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* height: 100vh; */
+}
+.image-shadow {
+  filter: drop-shadow(1px 2px 5px white);
+}
+h1{
+  text-align: center;
+  justify-content: center;
+}
